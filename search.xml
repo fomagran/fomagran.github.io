@@ -25,33 +25,6 @@
     
     
     <entry>
-      <title>hexo로 Github블로그 만들기</title>
-      <link href="2020/11/17/hexo%EB%A1%9C-Github%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0/"/>
-      <url>2020/11/17/hexo%EB%A1%9C-Github%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0/</url>
-      
-        <content type="html"><![CDATA[<h2 id="안녕하세요-포마입니다"><a href="#안녕하세요-포마입니다" class="headerlink" title="안녕하세요 포마입니다!!"></a>안녕하세요 포마입니다!!</h2><h3 id="여기-보시는-블로그처럼-자기만의-블로그를-hexo와-github를-이용해서-만들-수-있습니다"><a href="#여기-보시는-블로그처럼-자기만의-블로그를-hexo와-github를-이용해서-만들-수-있습니다" class="headerlink" title="여기 보시는 블로그처럼 자기만의 블로그를 hexo와 github를 이용해서 만들 수 있습니다."></a>여기 보시는 블로그처럼 자기만의 블로그를 hexo와 github를 이용해서 만들 수 있습니다.</h3><h3 id="그러면-어떻게-만드는지-바로-알아볼까요"><a href="#그러면-어떻게-만드는지-바로-알아볼까요" class="headerlink" title="그러면 어떻게 만드는지 바로 알아볼까요?"></a>그러면 어떻게 만드는지 바로 알아볼까요?</h3>]]></content>
-      
-      
-      <categories>
-          
-          <category> Github </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> hexo </tag>
-            
-            <tag> github </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>새로운 깃허브 블로그를 만들었어요</title>
       <link href="2020/11/17/hello-world/"/>
       <url>2020/11/17/hello-world/</url>
